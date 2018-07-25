@@ -1,0 +1,17 @@
+{
+  "ip address":"10.2.227.91",
+
+  "serial number":"/dev/ttyACM0",
+  "serial baudrate":"9600",
+
+  "vacuum i2c address":"0x28",
+  "vacuum register address":"0x0",
+
+  "pressure i2c address":"0x60",
+  "pressure register address":"0x0",
+  "pressure sensor write register 1":"0x26",
+  "pressure sensor write register 2":"0x39",
+
+  "sht sensor pin numbers 1":"17",
+  "sht sensor pin numbers 2":"27"
+}
